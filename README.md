@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Aina Qistina
 
-<!--
-**ainaqiss13/ainaqiss13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- Studying: Science Computer, UiTM
+- Currently learning: CSC
+- My FYP area: [your area, or "still deciding"]
 
-Here are some ideas to get you started:
+## Skills and tools
+- Java
+- C++
+- HTML
+- Canva
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 
+## Contact
+- Email: ainaqistina1305@gmail.com
