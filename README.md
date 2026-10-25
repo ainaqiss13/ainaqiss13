@@ -13,6 +13,7 @@
 - SQL
 
 ## Projects
-- 
+- NeuroQuest
+
 ## Contact
 - Email: ainaqistina1305@gmail.com
